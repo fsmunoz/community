@@ -1,4 +1,4 @@
-name: Contributor Comms Request
+name: Communication Request
 description: Get support on sending a message out to our community through coordinated outreach on email, Slack, social media, and other public channels.
 title: 'REQUEST: New communication about <topic>'
 labels: area/contributor-comms, sig/contributor-experience
@@ -7,6 +7,8 @@ body:
   attributes:
     label: What do you want to see published?
     description: Please tell us the main topic, working title, or brief description of the subject matter.
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: What existing material is available?
