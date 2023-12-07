@@ -1,0 +1,15 @@
+name: Contributor Comms Request
+description: Get support on sending a message out to our community through coordinated outreach on email, Slack, social media, and other public channels.
+title: 'REQUEST: New communication about <topic>'
+labels: area/contributor-comms, sig/contributor-experience
+body:
+- type: textarea
+  attributes:
+    label: What do you want to see published?
+    description: Please tell us the main topic, working title, or brief description of the subject matter.
+- type: textarea
+  attributes:
+    label: What existing material is available?
+    description: Please include a link to a draft. Gists, Hackmd.io, or Google Doc preferred. Include any artwork, pics, diagrams, or any other assets with public links. We use a combination of mailing lists, Slack messages, and social media posts to get the word out, and will base our proposal on the material indicated here. The SIG Contribex Comms team will work on a draft and validate the contents with you and other involved parties, assisting with the process of publishing it and amplify it.
+  validations:
+    required: true
