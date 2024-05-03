@@ -55,21 +55,38 @@ certainly a plus:
   external to SIG Contribex Comms (like the SIG Docs standards)
 * Participation in the weekly SIG Contribex Comms meetings
 
+In terms of time requirements, this is a very flexible programme since
+writing articles is something that can be done asynchronously. The
+following provides a minimal guideline:
+
+* 1h for weekly participation in the SIG Contribex Comms meeting
+* 2h for working on the interviews and articles (reviewing, writing,
+  etc).
+
+
 ## Shadowing Program
 
-The first stage is mostly about helping and getting to know the process, and it includes:
+The first stage is mostly about helping and getting to know the
+process, and it includes:
 
-* Assist in reviewing an article: the shadow will review an article and provide suggestions to improve it.
-* Assist in writing an interview: the shadow will suggest questions and improvements to an existing interview script.
-* Assist in a GitHub PR review: the shadow will partipate in a GitHub discussion during the publishing process.
-* Help contributors: the shadow will reply to contributors in the team Slack channel, steering them in the right direction.
-* Propose a new topic: the shadow will identify new interesting articles and add them to the project board.
+* Assist in reviewing an article: the shadow will review an article
+  and provide suggestions to improve it.
+* Assist in writing an interview: the shadow will suggest questions
+  and improvements to an existing interview script.
+* Assist in a GitHub PR review: the shadow will partipate in a GitHub
+  discussion during the publishing process.
+* Help contributors: the shadow will reply to contributors in the team
+  Slack channel, steering them in the right direction.
+* Propose a new topic: the shadow will identify new interesting
+  articles and add them to the project board.
 
-The following stage includes tasks that require more direct involvement:
+The following stage includes tasks that require more direct
+involvement:
 
 * Write an interview script.
 * Open an Issue and a PR.
-* Carry an article from inception to publication, updating the project board and Slack channel.
+* Carry an article from inception to publication, updating the project
+  board and Slack channel.
 * Provide feedback during weekly meetings.
 
 This is not an exhaustive list, but it serves as an indicator of what
